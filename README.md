@@ -10,7 +10,7 @@ Willkommen auf meiner GitHub-Profilseite.
 
 ## Über mich
 
-Ich bin Schüler und interessiere mich für Automatisierung & Scripting, Java sowie Netzwerke. Hier sammle ich meine Projekte und Experimente rund ums Programmieren.
+Ich bin Schüler und interessiere mich für Automatisierung & Scripting, Java-Programme sowie Netzwerke, ihre Topologie und Struktur. Hier sammle ich meine Projekte und Experimente rund ums Programmieren.
 
 ## Skills
 
@@ -18,15 +18,14 @@ Ich bin Schüler und interessiere mich für Automatisierung & Scripting, Java so
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff&labelColor=161b22)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=58a6ff&labelColor=161b22)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=58a6ff&labelColor=161b22)
-![Netzwerke](https://img.shields.io/badge/Netzwerke-0d1117?style=flat-square&logo=cisco&logoColor=58a6ff&labelColor=161b22)
+![Netzwerkadministration](https://img.shields.io/badge/Netzwerkadministration-0d1117?style=flat-square&logo=cisco&logoColor=58a6ff&labelColor=161b22)
 
 ## Projekte
 
 | Projekt | Beschreibung |
 |---|---|
-| Projekt 1 | Kurzbeschreibung folgt. Repo-Link hier ergänzen. |
-| Projekt 2 | Kurzbeschreibung folgt. Repo-Link hier ergänzen. |
-| Projekt 3 | Kurzbeschreibung folgt. Repo-Link hier ergänzen. |
+| [Cocktail-Tracker](https://buechelealex.github.io/cocktail-tracker/) | Simple Website zur Bewertung von Cocktails. |
+| [Fabricmc Server-Sided Waypoints](https://github.com/buechelealex/coordinate-saver-fabric) | Waypoints-Mod für Minecraft, die Serverseitig läuft. |
 
 ## Kontakt
 
